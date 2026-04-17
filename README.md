@@ -16,7 +16,7 @@ Download or clone this repository
 Open terminal / command prompt
 Run the program:
 python smart_medicine.py
-💡 Future Improvements
+## Future Improvements
 Add reminder notification 
 Store data using database (SQLite)
 Edit/update medicine schedule
