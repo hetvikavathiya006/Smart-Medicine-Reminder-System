@@ -28,5 +28,7 @@ python smart_medicine.py
 Add reminder notification 
 
 Store data using database (SQLite)
+
 Edit/update medicine schedule
+
 Convert into mobile application
