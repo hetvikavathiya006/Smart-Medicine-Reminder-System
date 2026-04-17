@@ -10,7 +10,7 @@ Supports 24-hour time format
 ## Technologies Used
 Python
 Tkinter (GUI Library)
-▶️ How to Run
+## How to Run
 Install Python on your system
 Download or clone this repository
 Open terminal / command prompt
