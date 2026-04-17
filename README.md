@@ -16,13 +16,13 @@ Python
 
 Tkinter (GUI Library)
 ## How to Run
-Install Python on your system
+1.Install Python on your system
 
-Download or clone this repository
+2.Download or clone this repository
 
-Open terminal / command prompt
+3.Open terminal / command prompt
 
-Run the program:
+4.Run the program:
 python smart_medicine.py
 ## Future Improvements
 Add reminder notification 
